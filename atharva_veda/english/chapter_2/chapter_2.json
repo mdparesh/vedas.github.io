@@ -5,6 +5,6 @@
 	"data": {
 		"title": "Chapter 2",
 		"description": "Description for Chapter 2",
-		"content": "<SIMPLE_HTML_DATA here>"
+		"content": "<p>Content for <b>Chapter 2</b> comes here as basic html</p>"
 	}
 }
