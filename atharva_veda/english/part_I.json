@@ -9,15 +9,15 @@
 				"db_key": "chapter_1",
 				"title": "Chapter 1",
 				"description": "Description for Chapter 1",
-				"chapter_url": "",
-				"icon_img": ""
+				"chapter_url": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/chapter_1/chapter_1.json",
+				"icon_img": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/chapter_1/chapter_1.jpg"
 			},
 			{
 				"db_key": "chapter_2",
 				"title": "Chapter 2",
 				"description": "Description for Chapter 2",
-				"chapter_url": "",
-				"icon_img": ""
+				"chapter_url": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/chapter_2/chapter_2.json",
+				"icon_img": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/chapter_2/chapter_2.jpg"
 			}
 		]
 	}
