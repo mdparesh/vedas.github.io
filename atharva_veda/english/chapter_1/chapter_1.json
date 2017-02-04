@@ -1,7 +1,10 @@
 {
-	"upgrade_app": false,
-	"force_upgrade_app": false,
 	"version": "v1",
 	"db_key": "chapter_1",
-	"data": "<SIMPLE_HTML_DATA here>"
+	"page_type": "web_view",
+	"data": {
+		"title": "Chapter 1",
+		"description": "Description for Chapter 1",
+		"content": "<SIMPLE_HTML_DATA here>"
+	}
 }

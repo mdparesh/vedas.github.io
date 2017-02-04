@@ -1,8 +1,7 @@
 {
-	"upgrade_app": false,
-	"force_upgrade_app": false,
 	"version": "v1",
 	"db_key": "atharva_ved_1",
+	"page_type": "list",
 	"data": {
 		"table_of_content": [
 			{

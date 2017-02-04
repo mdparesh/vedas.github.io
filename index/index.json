@@ -1,8 +1,8 @@
 {
-	"upgrade_app": false,
-	"force_upgrade_app": false,
+	"force_upgrade_url": "https://mdparesh.github.io/vedas.github.io/index/force_upgrade.json",
 	"version": "v1",
 	"db_key": "ved_index",
+	"page_type": "grid",
 	"data": {
 		"table_of_content": [
 			{
