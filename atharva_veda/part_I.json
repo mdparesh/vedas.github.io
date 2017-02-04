@@ -1,2 +1,12 @@
-# vedas.github.io
-To host Vedas sculptures
+{
+	"upgrade_app": false,
+	"version": "v1",
+	"data": {
+		"index": [
+			{
+				"Title": "Chapter 1",
+				"PageUrl": ""
+			}
+		]
+	}
+}
