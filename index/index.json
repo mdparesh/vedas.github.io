@@ -1,0 +1,17 @@
+{
+	"upgrade_app": false,
+	"force_upgrade_app": false,
+	"version": "v1",
+	"db_key": "ved_index",
+	"data": {
+		"table_of_content": [
+			{
+				"db_key": "atharva_ved_1",
+				"title": "Atharva Ved Part 1",
+				"description": "Description for Atharva Ved Part 1",
+				"chapter_url": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/part_1.json",
+				"icon_img": "https://mdparesh.github.io/vedas.github.io/atharva_veda/english/part_1.jpg"
+			}
+		]
+	}
+}
