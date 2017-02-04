@@ -1,0 +1,15 @@
+{
+	"upgrade_app": false,
+	"force_upgrade_app": false,
+	"version": "v1",
+	"data": {
+		"table_of_content": [
+			{
+				"title": "Chapter 1",
+				"description": "Description for Chapter 1",
+				"chapter_url": "",
+				"icon_img": ""
+			}
+		]
+	}
+}
