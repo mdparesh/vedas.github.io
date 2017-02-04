@@ -2,6 +2,6 @@
 	"upgrade_app": false,
 	"force_upgrade_app": false,
 	"version": "v1",
-	"db_key": "chapter_1",
+	"db_key": "chapter_2",
 	"data": "<SIMPLE_HTML_DATA here>"
 }
