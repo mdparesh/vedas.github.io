@@ -2,11 +2,20 @@
 	"upgrade_app": false,
 	"force_upgrade_app": false,
 	"version": "v1",
+	"db_key": "atharva_ved_1",
 	"data": {
 		"table_of_content": [
 			{
+				"db_key": "chapter_1",
 				"title": "Chapter 1",
 				"description": "Description for Chapter 1",
+				"chapter_url": "",
+				"icon_img": ""
+			},
+			{
+				"db_key": "chapter_2",
+				"title": "Chapter 2",
+				"description": "Description for Chapter 2",
 				"chapter_url": "",
 				"icon_img": ""
 			}
